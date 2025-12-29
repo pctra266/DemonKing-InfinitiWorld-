@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cce74ccb7c0a164a8813dc50be3bf16, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  rate: 20
+  prefab: {fileID: 3609106956234163995, guid: b637a64bdc459c14aa72fcefe1831bda, type: 3}
+  flyable: 0
